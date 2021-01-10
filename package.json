@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platforms-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenkiOo/ajs-platforms-package.git"
+  },
+  "author": "ZenkiOo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZenkiOo/ajs-platforms-package/issues"
+  },
+  "homepage": "https://github.com/ZenkiOo/ajs-platforms-package#readme",
+  "dependencies": {
+    "@zenkioo/ajs-platforms": "^1.0.0"
+  },
+  "description": ""
+}
