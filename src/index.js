@@ -1,3 +1,3 @@
-const ajs = require('@zenkioo/ajs-platforms@1.0.0');
+const ajs = require('@zenkioo/ajs-platforms');
 
 console.log(ajs.info());
